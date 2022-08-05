@@ -1,0 +1,143 @@
+  {
+  "main": {
+    "name": "Sai Charan Katkam",
+    "occupation": "Web Developer",
+    "description": "Competent UI Develper/React Developer professional with 2 years of experience and skills in achieving greater organizational efficiency & profitability.",
+    "image": "5791545611.jpeg",
+    "bio": "My name is Sai Charan Katkam, I'm a Front end Developer. I am working in The Virtual Forge limited company as a Javascript developer while also mentoring my colleagues.I enjoy being challenged and engaged with projects that require me to work beyond my comfort and knowledge set, as I get to explore and learn new languages with different development techniques which are important for growth of any professional like me as well as the success of any organisation.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "ks.cheran93@hotmail.com",
+    "address": {
+      "street": "14 Albion court,",
+      "city": "Luton",
+      "state": "United Kingdom",
+      "zip": "LU2 0DH"
+    },
+    "website": "",
+    "resumedownload": "https://drive.google.com/file/d/1QQ7KwJtGkfsOPIB6Ul_F5wXBchshkr8l/view?usp=sharing",
+    "social": [
+      
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sai-charan-katkam-221953104/",
+        "className": "fa fa-linkedin"
+      },
+     
+      {
+        "name": "github",
+        "url": "https://github.com/kscheran93",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My proficiency in technologies that I used while developing production level applications",
+    "education": [
+      {
+        "school": "Vishwa Vishwani School of Business",
+        "degree": "Masters in Business Administration",
+        "graduated": "May 2017",
+        "description": "Graduated with First Division"
+      },
+      {
+        "school": "Dr.B.R.Ambedkar open university, Hyderabad",
+        "degree": "Bachelors in Science",
+        "graduated": "December 2014",
+        "description": "Graduated with Third Divison  "
+      }
+    ],
+    "work": [
+      {
+        "company": "The Virtual Forge Limited.",
+        "title": "Javascript Developer",
+        "years": "July 2022 - till now",
+        "description": "Working with Automobile client website project using tools React Js components, Redux, Redux-Form, React-Router,JQuery, Typescript,ImmutableJS, and jQuery-UI,"
+      },
+      {
+        "company": "Bhaskara Info Services Pvt Ltd.",
+        "title": "FreeLancer-Reactjs",
+        "years": "January 2021 - March 2022",
+        "description": "Static Webites(HTML, CSS, Javascript), Framworks( Boostrap 4, JQuery, React.js, Express.js),Back-end(node.js, APIs)"
+      },
+      {
+        "company": "Bhaskara Info Services Pvt Ltd.",
+        "title": "Web developer-Reactjs",
+        "years": "August 2017 - August 2019",
+        "description": "Static Webites(HTML, CSS, Javascript), Framworks( Boostrap 4, JQuery, React.js, Express.js),Back-end(node.js, APIs)"
+      }
+    
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "Javascript",
+        "level": "80%"
+      },
+      {
+        "name": "Express.js",
+        "level": "80%"
+      },
+      {
+        "name": "Node.js",
+        "level": "80%"
+      },
+      {
+        "name": "JQuery",
+        "level": "70%"
+      },
+     
+      {
+        "name": "Databases (SQL)",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Spotify Clone Project",
+        "category": "Designed, developed, deployed (ReactJS, User Authentication, Spotify API, Material UI, React Context API)",
+        "image": "Spotify.jpg",
+        "url": "https://spotify-clone93.netlify.app/"
+      },
+      {
+        "title": "Amazon Clone Project",
+        "category": "Designed, developed, deployed (ReactJS, User Authentication, firebase )",
+        "image": "amazon.jpeg",
+        "url": "https://amazon-clone93.netlify.app/"
+      },
+      {
+        "title": "Tesla Clone Project",
+        "category": "Designed, developed, deployed (ReactJS, Redux, Styled Components)",
+        "image": "Tesla.png",
+        "url": "https://tesla-clone-reactjs-frontpage.netlify.app/"
+      },
+      {
+        "title": "Netflix Clone Project",
+        "category": "Designed, developed, deployed (ReactJS, Redux, Get TMDB API key)",
+        "image": "netflix.jpg",
+        "url": "https://netflix-clone-my-portfolio.netlify.app/"
+      }
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sai charan has been a very hard working and dependable consultant. He understands the business requirements and goes extra mile to deliver it. Highly professional and great value add to any team.",
+        "user": "Venkatesh, Ex-Principal Consultant at Bhaskara Info"
+      },
+      {
+        "text": "I had worked with Sai charan in Bhaskara Info Services for more than 1 year, I was senior to him. I had the pleasure of working with him. His dedication toward his work was outstanding and he always had positive attitude toward new learning. He is dedicated, self-motivated, trustworthy, independent and very capable. Nitish would be an asset to any Company.",
+        "user": "Praveen Gubbala, Technology Lead at Bhaskara Info."
+      }
+    ]
+  }
+}
