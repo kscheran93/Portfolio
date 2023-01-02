@@ -8,10 +8,10 @@
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "ks.cheran93@hotmail.com",
     "address": {
-      "street": "14 Albion court,",
+      "street": "32 Rothesay Road,",
       "city": "Luton",
       "state": "United Kingdom",
-      "zip": "LU2 0DH"
+      "zip": "LU1 1QZ "
     },
     "website": "",
     "resumedownload": "https://drive.google.com/file/d/1QQ7KwJtGkfsOPIB6Ul_F5wXBchshkr8l/view?usp=sharing",
@@ -50,14 +50,8 @@
       {
         "company": "The Virtual Forge Limited.",
         "title": "Javascript Developer",
-        "years": "July 2022 - till now",
+        "years": "July 2022 - September 2022",
         "description": "Working with Automobile client website project using tools React Js components, Redux, Redux-Form, React-Router,JQuery, Typescript,ImmutableJS, and jQuery-UI,"
-      },
-      {
-        "company": "Bhaskara Info Services Pvt Ltd.",
-        "title": "FreeLancer-Reactjs",
-        "years": "January 2021 - March 2022",
-        "description": "Static Webites(HTML, CSS, Javascript), Framworks( Boostrap 4, JQuery, React.js, Express.js),Back-end(node.js, APIs)"
       },
       {
         "company": "Bhaskara Info Services Pvt Ltd.",
