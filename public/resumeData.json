@@ -1,20 +1,20 @@
   {
   "main": {
     "name": "Sai Charan Katkam",
-    "occupation": "Web Developer",
-    "description": "Competent UI Develper/React Developer professional with 2 years of experience and skills in achieving greater organizational efficiency & profitability.",
+    "occupation": "Junior Cyber security Analyst",
+    "description": "Enthusiast cyber security analyst and competent Front End Developer, Junior ReactJS professional with 2 years of commercial experience and skills in achieving greater organizational efficiency & profitability. Seeking a challenging career in an organization that provides me with the opportunity to demonstrate my skills and improve my knowledge and be a part of your team that works dynamically towards the goals of the organization.",
     "image": "5791545611.jpeg",
-    "bio": "My name is Sai Charan Katkam, I'm a Front end Developer. I am working in The Virtual Forge limited company as a Javascript developer while also mentoring my colleagues.I enjoy being challenged and engaged with projects that require me to work beyond my comfort and knowledge set, as I get to explore and learn new languages with different development techniques which are important for growth of any professional like me as well as the success of any organisation.",
+    "bio": "My name is Sai Charan Katkam, I'm a Graduate Cyber Security Analyst and front end Developer. I am working in The HyperionDev Bootcamp as a Cyber Security Trainee while also mentoring my colleagues.I enjoy being challenged and engaged with projects that require me to work beyond my comfort and knowledge set, as I get to explore and learn new languages with different development techniques which are important for growth of any professional like me as well as the success of any organisation.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "ks.cheran93@hotmail.com",
     "address": {
-      "street": "32 Rothesay Road,",
-      "city": "Luton",
+      "street": "Flat 1 , 30 - 32 Western Road,",
+      "city": "St Leonards on sea",
       "state": "United Kingdom",
-      "zip": "LU1 1QZ "
+      "zip": "TN37 6DJ"
     },
     "website": "",
-    "resumedownload": "https://drive.google.com/file/d/11hb16tUf6sSp5UeV3Azy2AtT1vd7P6X0/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1XfeG8oE0XoVIZlwpopwlGtp46hTh59Zr/view?usp=sharing",
     "social": [
       
       {
@@ -32,7 +32,12 @@
   },
   "resume": {
     "skillmessage": "My proficiency in technologies that I used while developing production level applications",
-    "education": [
+    "education": [{
+        "school": "HyperionDev",
+        "degree": "Cyber Security Bootcamp",
+        "graduated": "July 2023",
+        "description": "Graduated with 99% grade"
+      },
       {
         "school": "Vishwa Vishwani School of Business",
         "degree": "Masters in Business Administration",
@@ -47,6 +52,12 @@
       }
     ],
     "work": [
+      {
+        "company": "HyperionDev.",
+        "title": "Cyber Security Trainee",
+        "years": "May 2023 - Present",
+        "description": " Practice cryptography by generating public-private keys using RSA, encrypting data, using the public key and decrypt using the private key. Employ hashing to verify the integrity of received data by leveraging MD5 hashingalgorithm. Spot phishing emails, investigate whether the links or attachments are malicious and if you should block the domain. Carry out port scanning and discover which services are running on your web server. Carry out an actual SQL injection attack on a website and learn how to prevent these attacks. Carry out a blind SQL injection attack on a website by leveraging Boolean and time-based inference techniques"
+      },
       {
         "company": "The Virtual Forge Limited(United Kingdom).",
         "title": "Javascript Developer",
@@ -74,6 +85,50 @@
     
     ],
     "skills": [
+      {
+        "name": "Linux",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "70%"
+      },
+      {
+        "name": "Bash Scripting",
+        "level": "70%"
+      },
+      {
+        "name": "Cross Site Scripting(XSS)",
+        "level": "70%"
+      },
+      {
+        "name": "Penetrating Testing",
+        "level": "70%"
+      },
+      {
+        "name": "SQL",
+        "level": "80%"
+      },
+      {
+        "name": "SQL Injection",
+        "level": "70%"
+      },
+      {
+        "name": "Cryptography",
+        "level": "80%"
+      },
+      {
+        "name": "HTTP & DNS",
+        "level": "80%"
+      },
+      {
+        "name": "Network Security",
+        "level": "80%"
+      },
+       {
+        "name": "Firewall Management",
+        "level": "80%"
+      },
       {
         "name": "ReactJs",
         "level": "80%"
@@ -115,6 +170,12 @@
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "Check out my Cybersecurity Projects",
+        "category": "Designed, developed, deployed (ReactJS, User Authentication, Spotify API, Material UI, React Context API)",
+        "image": "cybersecurity.jpg",
+        "url": "https://kscheran93.github.io/cybersecurity_portfolio/"
+      },
       {
         "title": "Spotify Clone Project",
         "category": "Designed, developed, deployed (ReactJS, User Authentication, Spotify API, Material UI, React Context API)",
