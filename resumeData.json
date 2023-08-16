@@ -1,0 +1,218 @@
+  {
+  "main": {
+    "name": "Sai Charan Katkam",
+    "occupation": "Junior Cyber security Analyst",
+    "description": "Enthusiast cyber security analyst and competent Front End Developer, Junior ReactJS professional with 2 years of commercial experience and skills in achieving greater organizational efficiency & profitability. Seeking a challenging career in an organization that provides me with the opportunity to demonstrate my skills and improve my knowledge and be a part of your team that works dynamically towards the goals of the organization.",
+    "image": "5791545611.jpeg",
+    "bio": "My name is Sai Charan Katkam, I'm a Graduate Cyber Security Analyst and front end Developer. I am working in The HyperionDev Bootcamp as a Cyber Security Trainee while also mentoring my colleagues.I enjoy being challenged and engaged with projects that require me to work beyond my comfort and knowledge set, as I get to explore and learn new languages with different development techniques which are important for growth of any professional like me as well as the success of any organisation.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "ks.cheran93@hotmail.com",
+    "address": {
+      "street": "Flat 1 , 30 - 32 Western Road,",
+      "city": "St Leonards on sea",
+      "state": "United Kingdom",
+      "zip": "TN37 6DJ"
+    },
+    "website": "",
+    "resumedownload": "https://drive.google.com/file/d/1XfeG8oE0XoVIZlwpopwlGtp46hTh59Zr/view?usp=sharing",
+    "social": [
+      
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/sai-charan-katkam-221953104/",
+        "className": "fa fa-linkedin"
+      },
+     
+      {
+        "name": "github",
+        "url": "https://github.com/kscheran93",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My proficiency in technologies that I used while developing production level applications",
+    "education": [{
+        "school": "HyperionDev",
+        "degree": "Cyber Security Bootcamp",
+        "graduated": "July 2023",
+        "description": "Graduated with 99% grade"
+      },
+      {
+        "school": "Vishwa Vishwani School of Business",
+        "degree": "Masters in Business Administration",
+        "graduated": "May 2017",
+        "description": "Graduated with First Division"
+      },
+      {
+        "school": "Dr.B.R.Ambedkar open university, Hyderabad",
+        "degree": "Bachelors in Science",
+        "graduated": "December 2014",
+        "description": "Graduated with Third Divison  "
+      }
+    ],
+    "work": [
+      {
+        "company": "HyperionDev.",
+        "title": "Cyber Security Trainee",
+        "years": "May 2023 - Present",
+        "description": " Practice cryptography by generating public-private keys using RSA, encrypting data, using the public key and decrypt using the private key. Employ hashing to verify the integrity of received data by leveraging MD5 hashingalgorithm. Spot phishing emails, investigate whether the links or attachments are malicious and if you should block the domain. Carry out port scanning and discover which services are running on your web server. Carry out an actual SQL injection attack on a website and learn how to prevent these attacks. Carry out a blind SQL injection attack on a website by leveraging Boolean and time-based inference techniques"
+      },
+      {
+        "company": "The Virtual Forge Limited(United Kingdom).",
+        "title": "Javascript Developer",
+        "years": "July 2022 - September 2022",
+        "description": "Working with Automobile client website project using tools React Js components, Redux, Redux-Form, React-Router,JQuery, Typescript,ImmutableJS, and jQuery-UI,"
+      },
+       {
+        "company": "Bhaskara Info Services Pvt Ltd(Remote).",
+        "title": "Junior React Developer- Freelancer",
+        "years": "September 2021 - February 2022",
+        "description": " Developing new user-facing features using ReactJS. Building reusable components and front end libraries for future use. Translating designs and wireframes into high quality code. Experience with popular ReactJS workflows (such as Redux_ToolKit & Flux). Experience with common front-end development tools such as Babel, Webpack, NPM. Familiarity with RestFul API’s"
+      },
+       {
+        "company": "Quest Employement Limited(Amazon Logistics United Kingdom).",
+        "title": "Warehouse Associate",
+        "years": "October 2019 - September 2021",
+        "description": "Overseeing and managing the selection and handling of orders. Ensuring that products and/or merchandise are packed neatly and securely. Ensuring that all warehouse operations are well-maintained and managed. Loading and unloading Amazon merchandise trucks. Operating stock management tools such as forklift and so on. Ensuring that the warehouse space is well-organized and managed. Driving trucks, vans, and/or cars with warehouse materials when required. Storing and managing data in inventory and logistic software programs."
+      },
+      {
+        "company": "Bhaskara Info Services Pvt Ltd(India).",
+        "title": "Web developer-Reactjs",
+        "years": "August 2017 - August 2019",
+        "description": "Static Webites(HTML, CSS, Javascript), Framworks( Boostrap 4, JQuery, React.js, Express.js),Back-end(node.js, APIs)"
+      }
+    
+    ],
+    "skills": [
+      {
+        "name": "Linux",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "70%"
+      },
+      {
+        "name": "Bash Scripting",
+        "level": "70%"
+      },
+      {
+        "name": "Cross Site Scripting(XSS)",
+        "level": "70%"
+      },
+      {
+        "name": "Penetrating Testing",
+        "level": "70%"
+      },
+      {
+        "name": "SQL",
+        "level": "80%"
+      },
+      {
+        "name": "SQL Injection",
+        "level": "70%"
+      },
+      {
+        "name": "Cryptography",
+        "level": "80%"
+      },
+      {
+        "name": "HTTP & DNS",
+        "level": "80%"
+      },
+      {
+        "name": "Network Security",
+        "level": "80%"
+      },
+       {
+        "name": "Firewall Management",
+        "level": "80%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+       {
+        "name": "Redux",
+        "level": "80%"
+      },
+      {
+        "name": "Javascript",
+        "level": "80%"
+      },
+        {
+        "name": "React-Native",
+        "level": "70%"
+      },
+      {
+        "name": "Express.js",
+        "level": "80%"
+      },
+      {
+        "name": "Node.js",
+        "level": "80%"
+      },
+      {
+        "name": "JQuery",
+        "level": "70%"
+      },
+     
+      {
+        "name": "Databases (SQL)",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Check out my Cybersecurity Projects",
+        "category": "Designed, developed, deployed (ReactJS, User Authentication, Spotify API, Material UI, React Context API)",
+        "image": "cybersecurity.jpg",
+        "url": "https://kscheran93.github.io/cybersecurity_portfolio/"
+      },
+      {
+        "title": "Spotify Clone Project",
+        "category": "Designed, developed, deployed (ReactJS, User Authentication, Spotify API, Material UI, React Context API)",
+        "image": "Spotify.jpg",
+        "url": "https://spotify-clone93.netlify.app/"
+      },
+      {
+        "title": "Amazon Clone Project",
+        "category": "Designed, developed, deployed (ReactJS, User Authentication, firebase )",
+        "image": "amazon.jpeg",
+        "url": "https://amazon-clone93.netlify.app/"
+      },
+      {
+        "title": "Tesla Clone Project",
+        "category": "Designed, developed, deployed (ReactJS, Redux, Styled Components)",
+        "image": "Tesla.png",
+        "url": "https://tesla-clone-reactjs-frontpage.netlify.app/"
+      },
+      {
+        "title": "Netflix Clone Project",
+        "category": "Designed, developed, deployed (ReactJS, Redux, Get TMDB API key)",
+        "image": "netflix.jpg",
+        "url": "https://netflix-clone-my-portfolio.netlify.app/"
+      }
+      
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sai charan has been a very hard working and dependable consultant. He understands the business requirements and goes extra mile to deliver it. Highly professional and great value add to any team.",
+        "user": "Venkatesh, Ex-Principal Consultant at Bhaskara Info"
+      },
+      {
+        "text": "I had worked with Sai charan in Bhaskara Info Services for more than 1 year, I was senior to him. I had the pleasure of working with him. His dedication toward his work was outstanding and he always had positive attitude toward new learning. He is dedicated, self-motivated, trustworthy, independent and very capable. Nitish would be an asset to any Company.",
+        "user": "Praveen Gubbala, Technology Lead at Bhaskara Info."
+      }
+    ]
+  }
+}
