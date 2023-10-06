@@ -14,7 +14,7 @@
       "zip": "TN37 6DJ"
     },
     "website": "",
-    "resumedownload": "https://drive.google.com/file/d/1XfeG8oE0XoVIZlwpopwlGtp46hTh59Zr/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/18h3N-_a91SanoLzBOG7J3jK68VQgZHsj/view?usp=sharing",
     "social": [
       
       {
@@ -56,7 +56,7 @@
         "company": "HyperionDev.",
         "title": "Cyber Security Trainee",
         "years": "May 2023 - Present",
-        "description": " Practice cryptography by generating public-private keys using RSA, encrypting data, using the public key and decrypt using the private key. Employ hashing to verify the integrity of received data by leveraging MD5 hashingalgorithm. Spot phishing emails, investigate whether the links or attachments are malicious and if you should block the domain. Carry out port scanning and discover which services are running on your web server. Carry out an actual SQL injection attack on a website and learn how to prevent these attacks. Carry out a blind SQL injection attack on a website by leveraging Boolean and time-based inference techniques"
+        "description": " I have acquired proficiency in key cybersecurity tools such as Burp Suite for web application security testing, Kali Linux for penetration testing and ethical hacking, Metasploit Framework for penetration testing and exploit development, and Wireshark for network traffic analysis and troubleshooting. My experience includes conducting ethical hacking exercises and vulnerability assessments, responsibly identifying and reporting security vulnerabilities, and actively participating in bug bounty programs. I have also enrolled in relevant cybersecurity courses, workshops, and certifications, dedicating time to self-study to grasp cybersecurity fundamentals and best practices. My commitment to continuous learning is evident through the maintenance of detailed records of my cybersecurity learning journey, experiments, and findings, as well as my practice in creating clear and concise reports of ethical hacking activities. I have engaged with the cybersecurity community through forums, online communities, and local meetups, collaborating with peers on challenges and knowledge sharing. My focus on personal and professional security awareness ensures that all ethical hacking activities are conducted legally and ethically. I am diligently preparing for foundational certifications like CompTIA Security+ and Certified Ethical Hacker (CEH) to validate my cybersecurity skills and seek mentorship from experienced cybersecurity professionals. Additionally, I have utilized a variety of online resources, blogs, and books to supplement my cybersecurity education."
       },
       {
         "company": "The Virtual Forge Limited(United Kingdom).",
@@ -171,10 +171,10 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Check out my Cybersecurity Projects",
+        "title": " my Cybersecurity Projects",
         "category": "Designed, developed, deployed (ReactJS, User Authentication, Spotify API, Material UI, React Context API)",
         "image": "cybersecurity.jpg",
-        "url": "https://kscheran93.github.io/cybersecurity_portfolio/"
+        "url": "https://work-in-progresss.netlify.app/"
       },
       {
         "title": "Spotify Clone Project",
