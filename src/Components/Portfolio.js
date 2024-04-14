@@ -5,13 +5,13 @@ class Portfolio extends Component {
 
     if(this.props.data){
       var projects = this.props.data.projects.map(function(projects){
-        console.log(projects.image)
+        console.log(projects)
         // var projectImage = 'images/portfolio/'+ projects.image;
         var projectImage = `${process.env.PUBLIC_URL}/images/portfolio/${projects.image}`;
         return <div key={projects.title} className="columns portfolio-item">
            <div className="item-wrap">
-            <a href={projects.url} title={projects.title}>
-               <img alt={projects.title} src={projectImage} />
+            <a href={projects.url} title={projects.title} style={{display:'block',height:'100%'}}>
+               <img alt={projects.title} src={projectImage} style={{height: '100%', width: '100%', objectFit:'cover' }} />
                <div className="overlay">
                   <div className="portfolio-item-meta">
                  <h5>{projects.title}</h5>

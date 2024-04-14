@@ -4,7 +4,7 @@
     "occupation": "Junior Cyber security Analyst",
     "description": "Enthusiast cyber security analyst and competent Front End Developer, Junior ReactJS professional with 2 years of commercial experience and skills in achieving greater organizational efficiency & profitability. Seeking a challenging career in an organization that provides me with the opportunity to demonstrate my skills and improve my knowledge and be a part of your team that works dynamically towards the goals of the organization.",
     "image": "5791545611.jpeg",
-    "bio": "My name is Sai Charan Katkam, I'm a Graduate Cyber Security Analyst and front end Developer. I am working in The HyperionDev Bootcamp as a Cyber Security Trainee while also mentoring my colleagues.I enjoy being challenged and engaged with projects that require me to work beyond my comfort and knowledge set, as I get to explore and learn new languages with different development techniques which are important for growth of any professional like me as well as the success of any organisation.",
+    "bio": "My name is Sai Charan Katkam, I'm a Graduate Cyber Security Analyst, IT Support Technician and front end Developer. I am working in The Jobshareskill.org as a IT Support technician and I am Graduated in cyber security government funded Bootcamp in HyperionDev.I enjoy being challenged and engaged with projects that require me to work beyond my comfort and knowledge set, as I get to explore and learn new languages with different development techniques which are important for growth of any professional like me as well as the success of any organisation.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "ks.cheran93@hotmail.com",
     "address": {
@@ -14,7 +14,7 @@
       "zip": "TN37 6DJ"
     },
     "website": "",
-    "resumedownload": "https://drive.google.com/file/d/18h3N-_a91SanoLzBOG7J3jK68VQgZHsj/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/19sm_kGDRpVjRX_y2A-52kfIGNanyhl-R/view?usp=drive_link",
     "social": [
       
       {
@@ -35,7 +35,7 @@
     "education": [{
         "school": "HyperionDev",
         "degree": "Cyber Security Bootcamp",
-        "graduated": "July 2023",
+        "graduated": "August 2023",
         "description": "Graduated with 99% grade"
       },
       {
@@ -53,9 +53,15 @@
     ],
     "work": [
       {
+        "company": "Jobshareskill.org",
+        "title": "It Support Technician",
+        "years": "January 2024 - Present",
+        "description": " I create and manage technical documentation for fellow JSS members while conducting research and developing knowledge base articles for IT support skills on LinkedIn. Additionally, I excel in fostering and maintaining effective relationships with team members. My expertise extends to client and server systems, particularly in utilizing Active Directory and Domain Controllers. Moreover, I possess proficiency in tracing and reviewing crucial account information within Office 365."
+      },
+      {
         "company": "HyperionDev.",
-        "title": "Cyber Security Trainee",
-        "years": "May 2023 - Present",
+        "title": "Junior Cyber security Analyst(Intern)",
+        "years": "May 2023 - October 2023",
         "description": " I have acquired proficiency in key cybersecurity tools such as Burp Suite for web application security testing, Kali Linux for penetration testing and ethical hacking, Metasploit Framework for penetration testing and exploit development, and Wireshark for network traffic analysis and troubleshooting. My experience includes conducting ethical hacking exercises and vulnerability assessments, responsibly identifying and reporting security vulnerabilities, and actively participating in bug bounty programs. I have also enrolled in relevant cybersecurity courses, workshops, and certifications, dedicating time to self-study to grasp cybersecurity fundamentals and best practices. My commitment to continuous learning is evident through the maintenance of detailed records of my cybersecurity learning journey, experiments, and findings, as well as my practice in creating clear and concise reports of ethical hacking activities. I have engaged with the cybersecurity community through forums, online communities, and local meetups, collaborating with peers on challenges and knowledge sharing. My focus on personal and professional security awareness ensures that all ethical hacking activities are conducted legally and ethically. I am diligently preparing for foundational certifications like CompTIA Security+ and Certified Ethical Hacker (CEH) to validate my cybersecurity skills and seek mentorship from experienced cybersecurity professionals. Additionally, I have utilized a variety of online resources, blogs, and books to supplement my cybersecurity education."
       },
       {
@@ -85,6 +91,58 @@
     
     ],
     "skills": [
+      {
+        "name": "Kali Linux",
+        "level": "85%"
+      },
+       {
+        "name": "Wireshark",
+        "level": "75%"
+      },
+       {
+        "name": "Nmap",
+        "level": "85%"
+      },
+       {
+        "name": "Burp Suite",
+        "level": "80%"
+      },
+       {
+        "name": "Metasploit",
+        "level": "75%"
+      },
+      {
+        "name": "VMWare ESXi",
+        "level": "85%"
+      },
+       {
+        "name": "Domain Controller",
+        "level": "75%"
+      },
+       {
+        "name": "Software installation",
+        "level": "85%"
+      },
+       {
+        "name": "Office 365 Administration",
+        "level": "80%"
+      },
+       {
+        "name": "Azura Management",
+        "level": "75%"
+      },
+      {
+        "name": "Nessus",
+        "level": "75%"
+      },
+      {
+        "name": "John the ripper",
+        "level": "90%"
+      },
+      {
+        "name": "Aircrack-ng",
+        "level": "75%"
+      },
       {
         "name": "Linux",
         "level": "80%"
@@ -170,6 +228,54 @@
   },
   "portfolio": {
     "projects": [
+      {
+        "title": " SOC Automation Lab Project",
+        "category": "Security Operations Center (SOC) automation project (home lab). Explore how automation enhances incident response, accelerates threat detection, and streamlines SOC workflows. Dive into the details of this hands-on, budget-friendly project (home lab) and empower your cybersecurity arsenal",
+        "image": "SocAutomation.png",
+        "url": "https://github.com/kscheran93/SOC-Automation-Lab1"
+      },
+      {
+        "title": " Active Directory Lab Project",
+        "category": "Guide for the steps of setting up an Active Directory (home lab) that includes Splunk, Kali Linux & Atomic Red Team. Explore how a domain environment works, learn how to ingest events to a SIEM and generate telemetry related to attacks seen in the wild to help you detect them in the future.",
+        "image": "activeDirectory.png",
+        "url": "https://github.com/kscheran93/Active-Directory-Project-Home-Lab-"
+      },
+      {
+        "title": "Burp Suite Lab Projects",
+        "category": "The class-leading vulnerability scanning, penetration testing, and web app security platform. Learn with Practical",
+        "image": "BurpSuiteProjects.png",
+        "url": "https://github.com/kscheran93/Burp_Suite_lab_projects"
+      },
+      {
+        "title": " Phishing Attack Investigation Project",
+        "category": "Lab: Investigating Phishing Incident",
+        "image": "PhishingAttackIvestigationProject.png",
+        "url": "https://github.com/kscheran93/Phishing-Attack-Investigation-Project"
+      },
+      {
+        "title": "CapStone project:Cyphers with Python",
+        "category": "Cypher Project Task with logic implemented with python",
+        "image": "CypherProject.png",
+        "url": "https://github.com/kscheran93/finalCapstone"
+      },
+      {
+        "title": "Nmap Scan project with Python",
+        "category": "This is basic project with Nmap Scan with the given IP address.",
+        "image": "NmapScanProject.png",
+        "url": "https://github.com/kscheran93/Nmap_Scan_Project_with_python"
+      },
+      {
+        "title": "Port Scanner with Python",
+        "category": "This is simple port Scanner with python programming",
+        "image": "portScannerWithPython.jpg",
+        "url": "https://github.com/kscheran93/port_Scanner_with_Python"
+      },
+          {
+        "title": "Cryptography RSA Encryption and decryption",
+        "category": "This is simple port Scanner with python programming",
+        "image": "public_key_cryptography.jpg",
+        "url": "https://github.com/kscheran93/Cryptography_RSA_Encryption-Decryption"
+      },
       {
         "title": " my Cybersecurity Projects",
         "category": "Designed, developed, deployed (ReactJS, User Authentication, Spotify API, Material UI, React Context API)",

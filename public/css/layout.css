@@ -431,8 +431,11 @@ ul#nav li.current a { color: #F06000; }
 }
 
 #portfolio-wrapper {
-   display: -moz-grid;
+   display: flex;
    flex-wrap: wrap;
+   justify-content: space-around;
+   margin: 0 auto;
+   max-width: 1200px;
 }
 #portfolio-wrapper:hover {
  transform: scale(1.07);
@@ -507,6 +510,8 @@ ul#nav li.current a { color: #F06000; }
 .portfolio-item .portfolio-item-meta h5 {
    font: 14px/21px 'opensans-bold', sans-serif;
    color: #fff;
+   flex: 0 0 calc(33.3% - 20px);
+   margin-bottom: 40px;
 }
 .portfolio-item .portfolio-item-meta p {
    font: 12px/18px 'opensans-light', sans-serif;
@@ -782,7 +787,7 @@ color: white;
     margin: 0 6px;
     display: inline-block;
     zoom: 1;
-    *display: inline;
+    display: inline;
 }
 .flex-control-paging li a {
     width: 12px;

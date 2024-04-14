@@ -61,9 +61,9 @@ class Header extends Component {
           <div className="banner-text">
             <h1 className="responsive-headline">{name}</h1>
             <h3>
-              "Graduate Junior Cyber Security Anaylst and UI Develper/React Developer professional with 2 years of experience and skills in achieving greater organizational efficiency & profitability."
+              "Graduate Junior Cyber Security Anaylst, IT Support Technician and UI Develper/React Developer professional with 2 years of experience and skills in achieving greater organizational efficiency & profitability."
             </h3>
-            <h3>Linux|React|Node.js|JS|SQL|MongoDB|JQuery|Boostrap5|CSS3|HTML5</h3>
+            <h3>Linux|Windows OS|SIEM|OSI Model|Networking|React|Node.js|JS|SQL|MongoDB|JQuery|Boostrap5|CSS3|HTML5</h3>
             <h3>
               <a className='site_link' href="https://amazon-clone93.netlify.app/">
                 Cloned Amazon Shopping Website in 5 Days
